@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - .collabignore
+    - Assets/Levels/0.unity
+    - Assets/Levels/0.unity.meta
+    - Assets/Levels/1.unity
+    - Assets/Levels/1.unity.meta
+    - Assets/Levels/10.unity
+    - Assets/Levels/10.unity.meta
+    - Assets/Levels/11.unity
+    - Assets/Levels/11.unity.meta
+    - Assets/Levels/12.unity
+    - Assets/Levels/12.unity.meta
+    - Assets/Levels/13.unity
+    - Assets/Levels/13.unity.meta
+    - Assets/Levels/14.unity
+    - Assets/Levels/14.unity.meta
+    - Assets/Levels/15.unity
+    - Assets/Levels/15.unity.meta
+    - Assets/Levels/16.unity
+    - Assets/Levels/16.unity.meta
+    - Assets/Levels/17.unity
+    - Assets/Levels/17.unity.meta
+    - Assets/Levels/18.unity
+    - Assets/Levels/18.unity.meta
+    - Assets/Levels/19.unity
+    - Assets/Levels/19.unity.meta
+    - Assets/Levels/2.unity
+    - Assets/Levels/2.unity.meta
+    - Assets/Levels/20.unity
+    - Assets/Levels/20.unity.meta
+    - Assets/Levels/21.unity
+    - Assets/Levels/21.unity.meta
+    - Assets/Levels/22.unity
+    - Assets/Levels/22.unity.meta
+    - Assets/Levels/23.unity
+    - Assets/Levels/23.unity.meta
+    - Assets/Levels/24.unity
+    - Assets/Levels/24.unity.meta
+    - Assets/Levels/25.unity
+    - Assets/Levels/25.unity.meta
+    - Assets/Levels/26.unity
+    - Assets/Levels/26.unity.meta
+    - Assets/Levels/27.unity
+    - Assets/Levels/27.unity.meta
+    - Assets/Levels/28.unity
+    - Assets/Levels/28.unity.meta
+    - Assets/Levels/29.unity
+    - Assets/Levels/29.unity.meta
+    - Assets/Levels/3.unity
+    - Assets/Levels/3.unity.meta
+    - Assets/Levels/30.unity
+    - Assets/Levels/30.unity.meta
+    - Assets/Levels/31.unity
+    - Assets/Levels/31.unity.meta
+    - Assets/Levels/32.unity
+    - Assets/Levels/32.unity.meta
+    - Assets/Levels/33.unity
+    - Assets/Levels/33.unity.meta
+    - Assets/Levels/34.unity
+    - Assets/Levels/34.unity.meta
+    - Assets/Levels/35.unity
+    - Assets/Levels/35.unity.meta
+    - Assets/Levels/36.unity
+    - Assets/Levels/36.unity.meta
+    - Assets/Levels/37.unity
+    - Assets/Levels/37.unity.meta
+    - Assets/Levels/38.unity
+    - Assets/Levels/38.unity.meta
+    - Assets/Levels/39.unity
+    - Assets/Levels/39.unity.meta
+    - Assets/Levels/4.unity
+    - Assets/Levels/4.unity.meta
+    - Assets/Levels/40.unity
+    - Assets/Levels/40.unity.meta
+    - Assets/Levels/5.unity
+    - Assets/Levels/5.unity.meta
+    - Assets/Levels/6.unity
+    - Assets/Levels/6.unity.meta
+    - Assets/Levels/7.unity
+    - Assets/Levels/7.unity.meta
+    - Assets/Levels/8.unity
+    - Assets/Levels/8.unity.meta
+    - Assets/Levels/9.unity
+    - Assets/Levels/9.unity.meta
+    - Assets/Menu/PauseWindow.png
+    - Assets/Menu/PauseWindow.png.meta
+    - Assets/Scenes/Levels.unity
+    - Assets/Scenes/Levels.unity.meta
+    - Packages/manifest.json
+    - Packages/packages-lock.json
+    - ProjectSettings/ProjectVersion.txt
+    - 
+    m_Values: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0

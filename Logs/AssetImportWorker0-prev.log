@@ -1,0 +1,114 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.3f1 (76626098c1c4) revision 7758432'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19042.1237; Version 2009; 64bit' Language: 'ru' Physical Memory: 3964 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Projects/Unity/I can (and i must)
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52316
+Successfully changed project path to: C:/Projects/Unity/I can (and i must)
+C:/Projects/Unity/I can (and i must)
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 241.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.3f1 (76626098c1c4)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Projects/Unity/I can (and i must)/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) R4 Graphics (ID=0x98e4)
+    Vendor:   
+    VRAM:     1982 MB
+    Driver:   27.20.11044.13001
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56068
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.011032 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 122.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in 14.646 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.039792 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 85.26 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.954 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.14 seconds
+Refreshing native plugins compatible for Editor in 1.75 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1901 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.6 MB.
+System memory in use after: 87.5 MB.
+
+Unloading 81 unused Assets to reduce memory usage. Loaded Objects now: 2300.
+Total: 6.287900 ms (FindLiveObjects: 1.396400 ms CreateObjectMapping: 0.260000 ms MarkObjects: 4.327400 ms  DeleteObjects: 0.300600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Menu/Pause 1.png
+  artifactKey: Guid(d0f0582ce973cc645b60c780f69413ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Menu/Pause 1.png using Guid(d0f0582ce973cc645b60c780f69413ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f872d7fbb25aa2abe0dd83ccd1cae5f') in 0.320016 seconds
+  Import took 0.328462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 330.302662 seconds.
+  path: Assets/Menu/Pause 2.png
+  artifactKey: Guid(89cdb8c5e6f6dc245b93ac127dae1dca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Menu/Pause 2.png using Guid(89cdb8c5e6f6dc245b93ac127dae1dca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d4dcfc53d2e74ec65f6297deb0bbbd5') in 0.096772 seconds
+  Import took 0.114819 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 166.718666 seconds.
+  path: Assets/Menu/Pause 1.png
+  artifactKey: Guid(d0f0582ce973cc645b60c780f69413ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Menu/Pause 1.png using Guid(d0f0582ce973cc645b60c780f69413ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcf79f88e92eb1973e5e1bc6c2110089') in 0.172545 seconds
+  Import took 0.197421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 322.863452 seconds.
+  path: Assets/Menu/Pause 2.png
+  artifactKey: Guid(89cdb8c5e6f6dc245b93ac127dae1dca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Menu/Pause 2.png using Guid(89cdb8c5e6f6dc245b93ac127dae1dca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab0457d3a39e9c0cd44542c32d698e38') in 0.159535 seconds
+  Import took 0.194761 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.048670 seconds.
+  path: Assets/Menu/PauseWindow.png
+  artifactKey: Guid(89cdb8c5e6f6dc245b93ac127dae1dca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Menu/PauseWindow.png using Guid(89cdb8c5e6f6dc245b93ac127dae1dca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13bc8fa7ec256c0bc214e6ecdae9ee84') in 0.098041 seconds
+  Import took 0.108101 seconds .
+
